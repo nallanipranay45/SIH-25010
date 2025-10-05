@@ -99,7 +99,7 @@ Farmers face major economic challenges including high input costs (like fertiliz
 - Conserves water by suggesting irrigation only when required.  
 
 ### Diagram
-![alt text](logo.png)
+![alt text](<Screenshot 2025-10-05 092106.png>)
 
 
 ## Research and References
